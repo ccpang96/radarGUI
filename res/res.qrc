@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="button_blue">button-blue.jpg</file>
+        <file alias="button_littleblue">button-littlebule.jpg</file>
+        <file alias="button_yellow">button-yellow.png</file>
+        <file alias="button_yes">button-yes.jpg</file>
+        <file alias="button_green">button_blue.png</file>
+        <file alias="button_gray">button_gray.png</file>
+    </qresource>
+</RCC>
