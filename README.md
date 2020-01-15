@@ -21,6 +21,9 @@ radarGUI是一个雷达数据处理软件，它使用QT开发，主要包括界�
     #define MOCT_CHINA_PATH  "E:\\radarGUI\\data\\china_basic_map\\bou2_4l"
 ## 界面显示如下：
 
-![](2020-01-15-16-22-35.png)
+    ![](https://github.com/ccpang96/radarGUI/blob/master/images/interface.png)
+
+
+![](https://github.com/ccpang96/radarGUI/blob/master/images/interface.png)
 
 </font>
